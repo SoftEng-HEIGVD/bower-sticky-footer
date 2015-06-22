@@ -6,7 +6,7 @@
     "Olivier Liechti <olivier.liechti@wasabi-tech.com>"
   ],
   "description": "A bower component with the (customized) 'sticky footer' stylesheet offered by Bootstrap on their website",
-  "main": "sticky-footer.css",
+  "main": "dist/css/sticky-footer.css",
   "keywords": [
     "bootstrap",
     "heigvd",
